@@ -253,7 +253,7 @@
 
 $(document).ready(function(){
 	$('.html').animate({width:'90%'},2000);
-	$('.css').animate({width:'80%'},2000);
+	$('.css').animate({width:'85%'},2000);
 	$('.js').animate({width:'80%'},2000);
 	$('.jquery').animate({width:'80%'},2000);
 	$('.c').animate({width:'80%'},2000);
