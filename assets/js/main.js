@@ -267,4 +267,6 @@ $(document).ready(function(){
 	$('.sitecore').animate({width:'60%'},2000);
 	$('.php').animate({width:'60%'},2000);
 	$('.ajax').animate({width: '60%'},2000);
+	$('.docker').animate({width: '50%'},2000);
+	$('.azure').animate({width: '50%'},2000);
 });

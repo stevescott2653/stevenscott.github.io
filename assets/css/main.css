@@ -4803,6 +4803,12 @@ input, select, textarea {
 	.ajax{
 		background: salmon;
 	}
+	.docker{
+		background: blueviolet;
+	}
+	.azure{
+		background: cornflowerblue;
+	}
 	@media (max-width: 720px) {
 		.main{
 			width: 90%;
