@@ -4736,7 +4736,7 @@ input, select, textarea {
 		border-radius: 5px;
 		box-shadow: 2px 0 2px #555;
 	}
-	.htmlColor{
+	/* .htmlColor{
 		background: #b71c1c;
 	}
 	.cssColor{
@@ -4751,6 +4751,13 @@ input, select, textarea {
 	.ajaxColor{
 		background: #ff6f00;
 	}
+	.sqlColor{
+		background: #4a148c;
+	}
+	.sassColor .sass{
+		background: #4a148c;
+	} */
+
 	.html{
 		background: #ec407a;
 	}
@@ -4759,15 +4766,9 @@ input, select, textarea {
 	}
 	.js{
 		background: #5c6bc0;
-	}
-	.php{
-		background: #66bb6a;
-	}
-	.ajax{
-		background: #ffca28;
-	}
+	}	
 	.c{
-		background: tomato;
+		background: rgb(53, 119, 206);
 	}
 	.sql{
 		background: aqua;
@@ -4779,7 +4780,7 @@ input, select, textarea {
 		background: cornflowerblue;
 	}
 	.net{
-		background: blue;
+		background: #66bb6a;
 	}
 	.agile{
 		background: chartreuse;
@@ -4789,6 +4790,18 @@ input, select, textarea {
 	}
 	.jquery{
 		background: orangered;
+	}
+	.bootstrap{
+		background: #ffca28;
+	}
+	.sitecore{
+		background: red;
+	}
+	.php{
+		background: olive;
+	}
+	.ajax{
+		background: salmon;
 	}
 	@media (max-width: 720px) {
 		.main{

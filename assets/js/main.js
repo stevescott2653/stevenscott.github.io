@@ -253,16 +253,18 @@
 
 $(document).ready(function(){
 	$('.html').animate({width:'90%'},2000);
-	$('.css').animate({width:'75%'},2000);
-	$('.js').animate({width:'50%'},2000);
-	$('.php').animate({width:'70%'},2000);
-	$('.ajax').animate({width:'45%'},2000);
+	$('.css').animate({width:'80%'},2000);
+	$('.js').animate({width:'80%'},2000);
+	$('.jquery').animate({width:'80%'},2000);
 	$('.c').animate({width:'80%'},2000);
-	$('.sql').animate({width:'50%'},2000);
-	$('.sass').animate({width:'50%'},2000);
-	$('.react').animate({width:'50%'},2000);
-	$('.net').animate({width:'50%'},2000);
-	$('.agile').animate({width:'50%'},2000);
-	$('.angular').animate({width:'50%'},2000);
-	$('.jquery').animate({width:'50%'},2000);
+	$('.sql').animate({width:'60%'},2000);
+	$('.sass').animate({width:'60%'},2000);
+	$('.react').animate({width:'60%'},2000);
+	$('.net').animate({width:'80%'},2000);
+	$('.agile').animate({width:'60%'},2000);
+	$('.angular').animate({width:'60%'},2000);	
+	$('.bootstrap').animate({width:'60%'},2000);
+	$('.sitecore').animate({width:'60%'},2000);
+	$('.php').animate({width:'60%'},2000);
+	$('.ajax').animate({width: '60%'},2000);
 });
